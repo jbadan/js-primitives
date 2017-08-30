@@ -1,14 +1,14 @@
-var object = {
-  'Moe': {age: 18},
-  'Larry':{age: 19},
-  'Curly':{age: 20},
-  'Jane': {age: 20},
-  'Emma': {age: 21},
-  'Elizabeth': {age: 18},
-  'Elinor': {age: 23},
-  'Mary':{age: 25},
-  'Darcy':{age: 24},
-  'Grey':{age: 18},
-  'Lydia':{age: 24},
-  'Harriet':{age: 18}
+var age = {
+  'Moe': 18,
+  'Larry':19,
+  'Curly':20,
+  'Jane': 20,
+  'Emma': 21,
+  'Elizabeth': 18,
+  'Elinor':23,
+  'Mary': 25,
+  'Darcy': 24,
+  'Grey': 18,
+  'Lydia': 24,
+  'Harriet': 18
 }
